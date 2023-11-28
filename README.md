@@ -108,7 +108,7 @@
 
 <table align="center">
     <tr align="center">
-        <td style="min-width: 150px;">
+        <td style="min-width: 150px; min-height: 150px">
             <a href="https://github.com/chaos0103">
               <img src="./readme_assets/profile/lyt.png" width="200" height="175">
               <br />
